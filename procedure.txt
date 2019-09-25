@@ -1,0 +1,9 @@
+conda create -n chatbot python-3.5 anaconda
+
+activate chatbot
+
+pip install tensorflow-1.0.0
+
+download cornell movie dailouge corpus
+
+activate tensorflow_cpu
